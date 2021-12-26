@@ -1,5 +1,8 @@
 ### Some slides have been updated (small updates). Please always check the new versions.
 
+### Records
+- https://drive.google.com/drive/folders/1HgmlKIHtcEhmY9dPKf5i7T5eDkKX9gVe?usp=sharing
+
 # web
 
 - https://www.coursera.org/learn/business-transformation-google-cloud
