@@ -1,6 +1,12 @@
 
 # Web
 
+
+```diff
+- For our lecturer, 3rd Oct, we will have it online, Insha Allah. 
++ The date and time will be confirmed, Insha Allah.
+
+```
 <!--
 ### Some slides have been updated (small updates). Please always check the new versions.
 
