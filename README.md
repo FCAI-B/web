@@ -1,15 +1,17 @@
 
 # Web
 
+<!--
 ## Online Links: Saturday at 8:30 pm
 ```diff
 + Online Link 1: https://meet.google.com/xue-pmtn-kvr 
 + Online Link 2: https://meet.google.com/tic-vqeo-hwj
 - Our next Lecture will be online next Saturday, 24 Oct, at 8:30 pm
 ```
+-->
 
 ```diff
-
++ Our next Lecture will be in the faculty next Saturday, 31 Oct
 ```
 <!--
 
