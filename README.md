@@ -7,12 +7,32 @@
 + Online Link 1: https://meet.google.com/xue-pmtn-kvr 
 + Online Link 2: https://meet.google.com/tic-vqeo-hwj
 - Our next Lecture will be online next Saturday, 24 Oct, at 8:30 pm
++ Our next Lecture will be in the faculty next Saturday, 31 Oct
 ```
 -->
 
 ```diff
-+ Our next Lecture will be in the faculty next Saturday, 31 Oct
++ The midterm exam includes lectures 1, 2, and 3.
+- The midterm exam will include an HTML question.
 ```
+
+### HTML sample
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My Web App Title</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>My First Header</h1>
+    <p>This is a sample paragraph for my first article.</p>
+  </body>
+</html>
+```
+
+
 <!--
 
 - For our lecturer, 3rd Oct, we will have it online, Insha Allah. 
