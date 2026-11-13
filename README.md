@@ -8,12 +8,13 @@
 + Online Link 2: https://meet.google.com/tic-vqeo-hwj
 - Our next Lecture will be online next Saturday, 24 Oct, at 8:30 pm
 + Our next Lecture will be in the faculty next Saturday, 31 Oct
++ The midterm exam includes lectures 1, 2, and 3.
+- The midterm exam will include an HTML question.
 ```
 -->
 
 ```diff
-+ The midterm exam includes lectures 1, 2, and 3.
-- The midterm exam will include an HTML question.
+- There is no Lecture on 14 Nov
 ```
 
 ### HTML sample
