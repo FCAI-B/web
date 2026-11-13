@@ -14,7 +14,7 @@
 -->
 
 ```diff
-- There is no Lecture on 14 Nov
+- There is no Lecture on 14 Nov due to midterm exams
 ```
 
 ### HTML sample
