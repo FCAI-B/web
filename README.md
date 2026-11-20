@@ -1,22 +1,23 @@
 
 # Web
 
-<!--
 ## Online Links: Saturday at 8:30 pm
 ```diff
 + Online Link 1: https://meet.google.com/xue-pmtn-kvr 
 + Online Link 2: https://meet.google.com/tic-vqeo-hwj
-- Our next Lecture will be online next Saturday, 24 Oct, at 8:30 pm
+- Our next Lecture will be online next Saturday, 21 Nov, at 7:30 pm
+
+```
+
+
+<!--
+```diff
+- There is no Lecture on 14 Nov due to midterm exams
 + Our next Lecture will be in the faculty next Saturday, 31 Oct
 + The midterm exam includes lectures 1, 2, and 3.
 - The midterm exam will include an HTML question.
 ```
 -->
-
-```diff
-- There is no Lecture on 14 Nov due to midterm exams
-```
-
 ### HTML sample
 ```html
 <!DOCTYPE html>
