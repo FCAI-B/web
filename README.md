@@ -1,7 +1,7 @@
 
 # Web
 
-## Online Links: Saturday at 8:30 pm
+## Online Links: Saturday at 7:30 pm
 ```diff
 + Online Link 1: https://meet.google.com/xue-pmtn-kvr 
 + Online Link 2: https://meet.google.com/tic-vqeo-hwj
