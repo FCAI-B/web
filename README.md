@@ -5,10 +5,10 @@
 ```diff
 + Online Link 1: https://meet.google.com/xue-pmtn-kvr 
 + Online Link 2: https://meet.google.com/tic-vqeo-hwj
-- Our next Lecture will be online next Saturday, 21 Nov, at 7:30 pm
+! Our next Lecture will be online next Saturday, 28 Nov, at 7:30 pm
 
 ```
-
+---
 
 <!--
 ```diff
